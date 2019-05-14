@@ -1,0 +1,16 @@
+[
+{
+  "modid": "moreberries",
+  "name": "More Berries",
+  "description": "Adds various berries to Minecraft.",
+  "version": "0.2",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Caleb Prigge"],
+  "credits": "Caleb Prigge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

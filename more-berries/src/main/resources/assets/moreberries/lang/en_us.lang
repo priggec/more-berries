@@ -1,0 +1,10 @@
+# Items
+item.moreberries:strawberry.name=Strawberry
+item.moreberries:cherry.name=Cherry
+item.moreberries:wildberries.name=Wildberries
+item.moreberries:strawberry_jam.name=Strawberry Jam
+item.moreberries:cherry_jam.name=Cherry Jam
+item.moreberries:wildberry_jam.name=Wildberry Jam
+tile.moreberries:berry_bush.name=Berry Bush
+# Blocks
+block.moreberries:berry_bush.name=Berry Bush
